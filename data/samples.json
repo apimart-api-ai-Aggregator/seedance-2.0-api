@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "01-product-ad-ceramic-mug",
+    "prompt": "Product ad shot: a matte ceramic mug on a rotating stone pedestal, soft studio light with a slow parallax camera move, shallow depth of field, clean beige backdrop",
+    "category": "Product ad",
+    "size": "16:9",
+    "resolution": "480p",
+    "model": "seedance-2.0",
+    "cost": 0.33
+  },
+  {
+    "slug": "02-cinematic-rainy-street",
+    "prompt": "Cinematic tracking shot down a rainy city street at night, neon reflections on wet asphalt, a lone cyclist passes, camera dollies forward slowly, film grain",
+    "category": "Cinematic",
+    "size": "16:9",
+    "resolution": "480p",
+    "model": "seedance-2.0",
+    "cost": 0.33
+  },
+  {
+    "slug": "03-food-ad-steam",
+    "prompt": "Vertical food ad: a bowl of ramen with rising steam, chopsticks lift noodles toward the camera, warm side light, slow push in, appetising colour grade",
+    "category": "Food ad",
+    "size": "9:16",
+    "resolution": "480p",
+    "model": "seedance-2.0",
+    "cost": 0.33
+  },
+  {
+    "slug": "04-architecture-flythrough",
+    "prompt": "Slow drone flythrough of a minimalist concrete villa at golden hour, infinity pool reflecting the sky, camera glides forward, ultra sharp architectural detail",
+    "category": "Architecture",
+    "size": "16:9",
+    "resolution": "480p",
+    "model": "seedance-2.0",
+    "cost": 0.33
+  }
+]
