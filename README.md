@@ -48,20 +48,6 @@ Result links are valid for 24 hours.
 | 4K-input | $0.5554 | $0.4443 |
 | 720P | $0.1775 | $0.142 |
 | 720P-input | $0.1073 | $0.0858 |
-
-<!-- conv-kit:v1:scale -->
-### What that costs at scale
-
-| Spend | Cost |
-| --- | --- |
-| 1 minute video seconds | $3.96 |
-| 10 minutes video seconds | $39.60 |
-| 60 minutes video seconds | $237.60 |
-
-Linear at the observed per-unit rate, no volume discount assumed. Snapshot 2026-09-17; re-check the live table before committing a budget.
-<!-- /conv-kit:v1:scale -->
-
-
 <!-- pricing:model:end -->
 
 Prices are a snapshot; the [pricing page](https://go.apimart.ai/k-4f6960) and [`data/model.json`](data/model.json) are refreshed by
